@@ -17,27 +17,36 @@
 
 ## Java vs JS vs TS
 ### Java: 
-linguagem forte e tipada, usada principalmente no back-end.
+- linguagem forte e tipada, usada principalmente no back-end.
 ### JavaScript (JS): 
-linguagem da web, roda no navegador e também no servidor (Node.js), usada para dar efeitos e adicionar eventos para o site.
+- linguagem da web, roda no navegador e também no servidor (Node.js), usada para dar efeitos e adicionar eventos para o site.
 ### TypeScript (TS): 
-uma versão do JS com tipagem, ajuda a evitar erros e organizar melhor projetos grandes(versao melhorada do JS).
+- uma versão do JS com tipagem, ajuda a evitar erros e organizar melhor projetos grandes(versao melhorada do JS).
 
 ## POO (Programação Orientada a Objetos)
-### classe: é um modelo que define como algo vai ser.
-### objeto: é a coisa feita, o objeto em si.
-### Atributo: Características
-### Método: Ações()
-### Getters e Setters: Controlam acesso aos dados
-Get = pega valor
-Set = altera valor
-### Construtor: Função que roda ao criar objeto
-Inicializa valores
-### Herança: Uma classe herda de outra
-Reaproveita código
-### Encapsulamento: Esconde dados internos
-Protege o objeto
-### Polimorfismo: Mesmo método, comportamentos diferentes
+### classe: 
+- é um modelo que define como algo vai ser.
+### objeto:
+- é a coisa feita, o objeto em si.
+### Atributo:
+- Características
+### Método:
+- Ações()
+### Getters e Setters:
+- Controlam acesso aos dados
+- Get = pega valor
+- Set = altera valor
+### Construtor:
+- Função que roda ao criar objeto
+- Inicializa valores
+### Herança:
+- Uma classe herda de outra
+- Reaproveita código
+### Encapsulamento:
+- Esconde dados internos
+- Protege o objeto
+### Polimorfismo:
+- Mesmo método, comportamentos diferentes
 
 
 
