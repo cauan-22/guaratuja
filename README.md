@@ -1,12 +1,12 @@
 # garatuja do Cauan Fabiani - IA25
 
-##[HTML]
+## [HTML]
 é uma linguagem de marcação usada na criação de sites.
 
-##CSS 
+## CSS 
 é usado para estilizar o html e deixar seu site mais bonito.
 
-##Java vs JS vs TS
+## Java vs JS vs TS
 *classe: é um modelo que define como alg0o vai ser.
 *objeto: é a coisa feita o objeto em si.
 *Variable vs atribute: variavel global, atributo Existe dentro de uma classe.
